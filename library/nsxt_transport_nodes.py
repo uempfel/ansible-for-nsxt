@@ -481,7 +481,7 @@ options:
             subnet_mask:
                 description: Subnet mask
                 required: False
-                type:'dict'
+                type: 'dict'
                 IPAddress:
                     description: IPv4 IPv6 address
                     required: False
