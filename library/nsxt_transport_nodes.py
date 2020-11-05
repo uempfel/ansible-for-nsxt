@@ -460,7 +460,7 @@ options:
                 type: 'str'
             ip_pool_id:
                 description: IP pool id
-                required:False
+                required: False
                 type: 'str'
             ip_list:
                 description: List of IPs for transport node host switch virtual tunnel endpoints
@@ -480,7 +480,7 @@ options:
                     type: 'str'
             subnet_mask:
                 description: Subnet mask
-                required:False
+                required: False
                 type: 'dict'
                 IPAddress:
                     description: IPv4 IPv6 address
