@@ -1033,7 +1033,7 @@ options:
                                 required: False
                                 suboptions:
                                     address_family:
-                                        description:
+                                        description: ""
                                         type: str
                                         required: False
                                         choices:
