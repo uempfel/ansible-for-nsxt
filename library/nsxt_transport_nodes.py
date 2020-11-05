@@ -184,8 +184,8 @@ options:
                     required: false
                     type: str
                 audit_username:
-                    description: "The default username is \"audit\". To configure username, you
-                                  must provide this property together with <b>audit_password</b>."
+                    description: 'The default username is "audit". To configure username, you
+                                  must provide this property together with <b>audit_password</b>.'
                     required: false
                     type: str
                 cli_password:
